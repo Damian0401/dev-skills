@@ -1,0 +1,16 @@
+{
+  "name": "dev-skills",
+  "description": "A collection of skills for dotnet and typescript development",
+  "owner": {
+    "name": "damian0401"
+  },
+  "plugins": [
+    {
+      "name": "project-setup",
+      "source": "./project-setup",
+      "description": "Skills for setting up .NET and TypeScript projects.",
+      "version": "1.0.0",
+      "keywords": ["dotnet", "typescript", "api-client", "integration-tests", "scaffolding", "refit", "openapi"]
+    }
+  ]
+}
